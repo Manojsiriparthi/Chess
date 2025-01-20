@@ -1,6 +1,8 @@
 # Chess Game Platform (Clone of Chess.com)
 
 This application is a real-time chess game platform built using **Node.js** and **Express.js** for the backend, with the frontend designed for a seamless user experience. The platform allows users to play chess games in real-time, similar to popular chess sites like **Chess.com**.
+![chess Game Interface](https://ik.imagekit.io/vinaymry/Screenshot%202025-01-20%20144218.png?updatedAt=1737367751761)
+
 
 ## Key Features:
 
